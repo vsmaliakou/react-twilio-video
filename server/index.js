@@ -6,10 +6,10 @@ const twilio = require('twilio');
 const PORT = 4000;
 const app = express();
 
-const accountSid = 'ACf4f9ddf033bc0e0305ff99072afe9a35';
-const authToken = 'c3f28ae8610e2202d93009a2492997d7';
-const keySid = 'SK06f15069145644bbedacfa9c132fb078';
-const secret = 'vaQnavG78Ft60zy0fzvwhnPNJtVO1Z0B';
+const accountSid = '';
+const authToken = '';
+const keySid = '';
+const secret = '';
 
 const client = twilio(accountSid, authToken);
 
